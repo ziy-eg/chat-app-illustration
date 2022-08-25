@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop view](./images/desktop-view.jpg)
-![desktop active animation](./images/desktop-active-1.jpg)
-![desktop active animation](./images/desktop-active-2.jpg)
-![tablet view](./images/tablet-view.jpg)
-![large phone](./images/mobile-large-view.jpg)
-![small phone](./images/mobile-small-view.jpg)
+![desktop view](./images/desktop-view.png)
+![desktop active animation](./images/desktop-active-1.png)
+![desktop active animation](./images/desktop-active-2.png)
+![tablet view](./images/tablet-view.png)
+![large phone](./images/mobile-large-view.png)
+![small phone](./images/mobile-small-view.png)
 
 ### Links
 
