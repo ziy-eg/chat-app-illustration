@@ -29,8 +29,8 @@ Users should be able to:
 ![desktop active animation](./design/desktop-active-1.png)
 ![desktop active animation](./design/desktop-active-2.png)
 ![tablet view](./design/tablet-view.png)
-![large phone](./design/mobile-large-view.png)
-![small phone](./design/mobile-small-view.png)
+![large phone](./design/mobile-large-screen.png)
+![small phone](./design/mobile-small-screen.png)
 
 ### Links
 
