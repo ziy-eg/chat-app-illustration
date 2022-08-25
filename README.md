@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [Live site here](https://ziy-eg.github.io/chat-app-illustration/)
-- Solution URL: [Solution here](https://your-solution-url.com)
+- Solution URL: [Solution here](https://www.frontendmentor.io/solutions/chat-app-landing-page-with-animation-phone-screen-only-css-z43uXYsSz7)
 
 ## My process
 
