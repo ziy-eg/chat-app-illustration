@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
+- Live Site URL: [Live site here](https://ziy-eg.github.io/chat-app-illustration/)
 - Solution URL: [Solution here](https://your-solution-url.com)
-- Live Site URL: [Live site here](https://your-live-site-url.com)
 
 ## My process
 
