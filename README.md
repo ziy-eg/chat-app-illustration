@@ -26,8 +26,8 @@ Users should be able to:
 ### Screenshot
 
 ![desktop view](./design/desktop-view.png)
-![desktop active animation](./design/desktop-active-1.png)
-![desktop active animation](./design/desktop-active-2.png)
+![desktop active animation](./design/desktop-active-1.PNG)
+![desktop active animation](./design/desktop-active-2.PNG)
 ![tablet view](./design/tablet-view.png)
 ![large phone](./design/mobile-large-screen.png)
 ![small phone](./design/mobile-small-screen.png)
